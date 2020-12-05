@@ -1,0 +1,71 @@
+/*header*/
+.logo
+{
+    color: crimson;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+nav
+{
+    background: #2A5992;
+}
+.navbar-nav .nav-item .nav-link
+{
+    margin: 10px 15px;
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    color: white;
+    text-transform: capitalize;
+    border-bottom: 1px solid transparent;
+}
+.navbar-nav .nav-item .nav-link:hover
+{
+    border-bottom: 2px solid white;
+}
+header
+{
+    box-shadow: 0px 6px 31px -6px rgba(0,0,0,0.75);
+}
+/*end header*/
+/*slider*/
+.slider-img
+{
+    height: 80vh;
+}
+/*slider*/
+/*about us*/
+.about-headline
+{
+    color: rgb(150, 147, 147);
+}
+.about-headline h3
+{
+    color: rgb(207, 202, 202);
+}
+.loard-more
+{
+    width: 150px;
+    color: white;
+    background:#2A5992;
+}
+/*card size*/
+.card-size
+{
+    max-width: 18rem;
+}
+/*card size*/
+/*contact us*/
+.form
+{
+    background: url(../img/smoke-376543_640.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+    overflow: hidden;
+}
+.from-g
+{
+    margin-top: 100px;
+}
+/*contact us*/
